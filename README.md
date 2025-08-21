@@ -1,7 +1,9 @@
-Core Java Concepts: A Practical Guide 🧑‍💻
+Core Java Concepts: A Practical Guide 🧑‍💻 : 
+
+
 Welcome! This repository contains a collection of Java files designed to explain the fundamental concepts of Core Java, from basic syntax to more advanced topics like Object-Oriented Programming (OOPs), the Collection Framework, and Multithreading. Each concept is demonstrated with simple, commented code.
 
-Table of Contents
+Table of Contents : 
  1. Java Fundamentals
 
  2. Object-Oriented Programming (OOPs)
@@ -12,6 +14,7 @@ Table of Contents
 
 1. Java Fundamentals: Basics & Building Blocks 🧱
     These are the absolute essentials you need to start writing Java code.
+   
     Strings : Strings in Java are objects that represent a sequence of characters. A key feature is their immutability—once a String object is created, it cannot be changed.
 
     String Pool vs. Heap:
